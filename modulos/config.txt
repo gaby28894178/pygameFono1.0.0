@@ -1,0 +1,10 @@
+[Controles]
+arriba = pygame.K_UP
+abajo = pygame.K_DOWN
+izquierda = pygame.K_LEFT
+derecha = pygame.K_RIGHT
+
+[Otras configuraciones]
+resolucion_ancho = 800
+resolucion_alto = 600
+velocidad_cuadrado = 5
